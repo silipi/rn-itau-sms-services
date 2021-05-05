@@ -1,8 +1,6 @@
 # rn-itau-sms-services
 Um aplicativo que consulta serviços SMS do banco Itaú como se fosse uma API. Consulta saldos, extratos, melhor data e etc., tudo sem logar.
 
-> PS.: esse é um dos poucos, se não o único aplicativo criado com intenção de estudos que eu acabo utilizando por ser muito útil! 🤑
->
 > Para consultar o saldo, no aplicativo do Itaú, é necessário logar, e este processo demora, enquanto aqui, com 1 toque eu consigo a mesma informação!
 
 <img src="./.gitassets/scrsht-app.jpg" width="300" />
